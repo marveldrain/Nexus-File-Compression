@@ -1,0 +1,8 @@
+# Nexus File Compression
+
+# Currently zero external dependencies (pure standard library)
+# Add packages here when we expand the project
+
+# torch>=2.0.0                    # Future: neural predictor
+# zstandard>=0.23.0               # Faster entropy coding
+# python-magic                    # Better file-type detection
